@@ -1,0 +1,76 @@
+adr Adriatic Sea 0 0 0   S 5 tri alb ion apu ven
+aeg Aegean Sea 0 0 0   S 6 bul con smy eas ion gre
+alb Albania 0 0 0   L 5 ser gre ion adr tri
+ank Ankara 1 0 1 T L 4 bla arm smy con
+apu Apulia 0 0 0 I L 5 adr ion nap rom ven
+arm Armenia 0 0 0 T L 5 sev syr smy ank bla
+bal Baltic Sea 0 0 0   S 8 swe gob lvn pru ber kie den hel
+bar Barents Sea 0 0 0   S 3 stp nor nwg
+bel Belgium 1 0 0   L 6 nth hol ruh bur pic eng
+ber Berlin 1 0 1 G L 5 pru sil mun kie bal
+bla Black Sea 0 0 0   S 6 sev arm ank con bul rum
+boh Bohemia 0 0 0 A L 5 sil gal vie tyr mun
+bre Brest 1 1 0 F L 5 eng pic par gas mao
+bud Budapest 1 0 1 A L 5 gal rum ser tri vie
+bul Bulgaria 1 0 0   L 6 rum bla con aeg gre ser
+bur Burgundy 0 0 0 F L 7 bel ruh mun mar gas par pic
+cly Clyde 0 0 0 E L 4 nao nwg edi lvp
+con Constantinople 1 0 1 T L 5 bla ank smy aeg bul
+den Denmark 1 0 0   L 6 ska swe bal kie hel nth
+eas Eastern Mediterannean 0 0 0   S 4 smy syr ion aeg
+edi Edinburgh 1 1 0 E L 5 nwg nth yor lvp cly
+eng English Channel 0 0 0   S 8 wal lon nth bel pic bre mao iri
+fin Finland 0 0 0 R L 4 nor stp gob swe
+gal Galicia 0 0 0 A L 7 war ukr rum bud vie boh sil
+gas Gascony 0 0 0 F L 6 bre par bur mar spa mao
+gre Greece 1 0 0   L 5 alb ser bul aeg ion
+gol Gulf of Lyon 0 0 0   S 6 mar pie tus tys wes spa
+gob Gulf of Bothnia 0 0 0   S 5 fin stp lvn bal swe
+hel Helgoland Bight 0 0 0   S 5 nth den bal kie hol
+hol Holland 1 0 0   L 5 hel kie ruh bel nth
+ion Ionian Sea 0 0 0   S 9 adr alb gre aeg eas tun smy nap apu
+iri Irish Sea 0 0 0   S 5 nao lvp wal eng mao
+kie Kiel 1 1 0 G L 7 den bal ber mun ruh hol hel
+lvp Liverpool 1 0 1 E L 6 cly edi yor wal iri nao
+lvn Livonia 0 0 0 R L 6 stp mos war pru bal gob
+lon London 1 1 0 E L 4 yor nth eng wal
+mar Marseilles 1 0 1 F L 5 bur pie gol spa gas
+mao Mid-Atlantic Ocean 0 0 0   S 9 nao iri eng bre gas spa por wes naf
+mos Moscow 1 0 1 R L 5 stp sev ukr war lvn
+mun Munich 1 0 1 G L 7 kie ber sil boh tyr bur ruh
+nap Naples 1 1 0 I L 4 apu ion tys rom
+nao North Atlantic Ocean 0 0 0   S 4 nwg cly iri mao
+naf North Africa 0 0 0   L 3 mao wes tun
+nth North Sea 0 0 0   S 11 nwg nor ska den hel hol bel eng lon yor edi
+nor Norway 1 0 0   L 7 nwg bar stp fin swe ska nth
+nwg Norwegian Sea 0 0 0   S 6 nao nth bar nor edi cly
+par Paris 1 0 1 F L 4 pic bur gas bre
+pic Picardy 0 0 0 F L 5 ber bur par bre eng
+pie Piedmont 0 0 0 I L 5 tyr ven tus gol mar
+por Portugal 1 0 0   L 2 mao spa
+pru Prussia 0 0 0 G L 5 bal lvn war sil ber
+rom Rome 1 0 1 I L 5 ven apu nap tys tus
+ruh Ruhr 0 0 0 G L 5 kie mun bur bel hol
+rum Rumania 1 0 0   L 7 ukr sev bla bul ser bud gal
+ser Serbia 1 0 0   L 6 bud rum bul gre alb tri
+sev Sevastopol 1 1 0 R L 5 mos arm bla rum ukr
+sil Silesia 0 0 0 G L 6 pru war gal boh mun ber
+ska Skagerrak 0 0 0   S 5 nor swe den bal nth
+smy Smyrna 1 0 1 T L 6 ank arm syr eas aeg con
+spa Spain 1 0 0   L 6 gas mar gol wes mao por
+stp St. Petersburg 1 1 0 R L 6 bar mos lvn gob fin nor
+swe Sweden 1 0 0   L 6 nor fin gob bal den ska
+swi Switzerland 0 0 0     0 
+syr Syria 1 0 0   L 3 arm smy eas
+tri Trieste 1 1 0 I L 7 vie bud ser alb adr ven tyr
+tun Tunis 0 0 0   L 4 naf wes tys ion
+tus Tuscany 0 0 0 I L 5 ven rom tys gol pie
+tyr Tyrolia 0 0 0 A L 6 mun boh vie tri ven pie
+tys Tyrrhenian Sea 0 0 0   S 7 tus rom nap ion tun wes gol
+ukr Ukraine 0 0 0 R L 5 mos sev rum gal war
+ven Venice 1 0 1 I L 7 tyr tri adr apu rom tus pie
+vie Vienna 1 0 1 A L 5 boh gal bud tri tyr
+wal Wales 0 0 0 E L 5 lvp yor lon eng iri
+war Warsaw 1 0 1 R L 6 lvn mos ukr gal sil pru
+wes Western Mediterranean 0 0 0   S 6 gol tys tun naf mao spa
+yor York 0 0 0 E L 5 edi nth lon wal lvp
