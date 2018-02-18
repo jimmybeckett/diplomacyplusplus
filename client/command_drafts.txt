@@ -1,0 +1,4 @@
+add order AAA > BBB		// move from AAA to BBB
+add order AAA s BBB		// support BBB with AAA
+add order AAA h			// AAA do nothing (pointless but pretty)
+add order AAA c BBB		// try to convoy from AAA to BBB if a route exists
