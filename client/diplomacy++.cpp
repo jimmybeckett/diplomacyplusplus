@@ -35,7 +35,7 @@ int main() {
             delete b;
 			cout << "closing diplomacy++" << endl;
 		} else { 
-            std::cout << "command not recognized" << endl;
+            cout << "command not recognized" << endl;
         }
 	}
 }
