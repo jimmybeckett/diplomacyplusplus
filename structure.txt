@@ -1,0 +1,40 @@
+setup host:
+	host{listening on ????} > server
+
+setup client:
+	client{listening on ????} > server
+
+client to host:
+	client{yo dawg, u got any spicy games up?} > server
+	server{yee / nah fam} > client
+	(yee)
+		client{I want that one} > server
+		server{we got a boio waitin} > host
+
+start game:
+	host{nyoom time} > server
+	server{ready up bois} > client(s)
+	client(s){yee / woah wait I'm a Sam client I'm not ready yet} > server
+	(yee(s))
+		server{autobots, roll out} > host
+	(woah... yet)
+		server{not my fault lol} > host
+
+submit orders:
+	[client check]
+	client{these look legit to me} > server
+	server{yo dog we gucc?} > host
+	[host check]
+	host{affirmative / who taught u to write orders?} > server
+	(affirmative)
+		server{we good bois, here's the results} > client
+	(who... orders?)
+		server{person A messed up rip}
+
+submit chat:
+	client{greetings} > server
+
+load / update chat:
+	client{hmu with that chat dawg} > server
+	server{here fam} > client
+
