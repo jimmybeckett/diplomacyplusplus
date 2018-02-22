@@ -4,26 +4,6 @@
 
 using namespace std;  
 
-class tile()
-{
-	bool hasSupplyCenter;
-	bool holdsFleet;
-	bool holdsArmy;
-	char unitType;			//'A' is army, 'F' is fleet, ' ' is empty
-	char unitOwner;			//character for the country
-	tile* neighbors[];
-
-	tile() 
-	{
-		hasSupplyCenter = false;
-		holdsFleet = true;
-		holdsArmy = true;
-		unitType = ' ';			//'A' is army, 'F' is fleet, ' ' is empty
-		unitOwner = ' ';			//character for the country
-		neighbors = tile*[0];
-	}
-};
-
 class board()
 {
 /*______________________________________________________________________________________________________________________________________________________________________________________________________________
